@@ -16,23 +16,23 @@
         {
             "quhaoran123":
             {
-                "solved": [0,1,2,3]
+                "solved": ["A","B","C","D"]
             },
             "zhangzhengyan123":
             {
-                "solved": [0,1,2,3]
+                "solved": ["A","B","C","D"]
             },
             "hellolin":
             {
-                "solved": [0,1,2]
+                "solved": ["A","B","C"]
             },
             "liaiyang":
             {
-                "solved": [0,1,2]
+                "solved": ["A","B","C"]
             },
             "zhugeminhao":
             {
-                "solved": [0,1]
+                "solved": ["A","B"]
             }
         }
 
