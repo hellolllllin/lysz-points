@@ -1,0 +1,63 @@
+{
+    "Toyota Programming Contest 2023 Spring Qual B（AtCoder Beginner Contest 290）":
+    {
+        "problems":
+        {
+            "A":100,
+            "B":200,
+            "C":300,
+            "D":400,
+            "E":500,
+            "F":500,
+            "G":600,
+            "Ex":600
+        },
+        "people":
+        {
+            "quhaoran123":
+            {
+                "solved": ["A","B","C","D"],
+                "unac":
+                {
+                    "C": 1,
+                    "D": 2
+                }
+            },
+            "zhangzhengyan123":
+            {
+                "solved": ["A","B","C","D"],
+                "unac":
+                {
+                    "B": 2,
+                    "C": 2,
+                    "D": 1
+                }
+            },
+            "hellolin":
+            {
+                "solved": ["A","B","C"],
+                "unac":
+                {
+                    "D": 2
+                }
+            },
+            "liaiyang":
+            {
+                "solved": ["A","B","C"],
+                "unac":
+                {
+                    "C": 1
+                }
+            },
+            "zhugeminhao":
+            {
+                "solved": ["A","B"],
+                "unac":
+                {
+                    "C": 12
+                }
+            }
+        }
+
+    }
+}
