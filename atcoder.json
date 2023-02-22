@@ -16,23 +16,23 @@
         {
             "quhaoran123":
             {
-                "solved": ["A","B","C","D"]
+                "solved": ["A","B","C","D",0,0,0,0]
             },
             "zhangzhengyan123":
             {
-                "solved": ["A","B","C","D"]
+                "solved": ["A","B","C","D",0,0,0,0]
             },
             "hellolin":
             {
-                "solved": ["A","B","C"]
+                "solved": ["A","B","C",0,0,0,0,0]
             },
             "liaiyang":
             {
-                "solved": ["A","B","C"]
+                "solved": ["A","B","C",0,0,0,0,0]
             },
             "zhugeminhao":
             {
-                "solved": ["A","B"]
+                "solved": ["A","B",0,0,0,0,0,0]
             }
         }
 
