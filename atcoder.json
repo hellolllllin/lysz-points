@@ -35,6 +35,40 @@
                 "solved": ["A","B",0,0,0,0,0,0]
             }
         }
-
+    },
+    "AtCoder Regular Contest 157":
+    {
+        "problems":
+        {
+            "A":300,
+            "B":500,
+            "C":600,
+            "D":600,
+            "E":700,
+            "F":900
+        },
+        "people":
+        {
+            "WilliamFranklin":
+            {
+                "solved": ["A",0,0,0,0,0]
+            },
+            "quhaoran123":
+            {
+                "solved": ["A",0,0,0,0,0]
+            },
+            "hellolin":
+            {
+                "solved": ["A",0,0,0,0,0]
+            },
+            "zhugeminhao":
+            {
+                "solved": ["A",0,0,0,0,0]
+            },
+            "zhangzhengyan123":
+            {
+                "solved": ["A",0,0,0,0,0]
+            }
+        }
     }
 }
