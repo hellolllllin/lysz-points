@@ -2,72 +2,68 @@
     "Toyota Programming Contest 2023 Spring Qual B（AtCoder Beginner Contest 290）":
     {
         "problems":
-        {
-            "A":100,
-            "B":200,
-            "C":300,
-            "D":400,
-            "E":500,
-            "F":500,
-            "G":600,
-            "Ex":600
-        },
+        [
+            "A","B","C","D","E","F","G","Ex"
+        ],
+        "score":
+        [
+            100,200,300,400,500,500,600,600
+        ],
         "people":
         {
             "quhaoran123":
             {
-                "solved": ["A","B","C","D",0,0,0,0]
+                "solved": [-1,-1,1,2,0,0,0,0]
             },
             "zhangzhengyan123":
             {
-                "solved": ["A","B","C","D",0,0,0,0]
+                "solved": [-1,2,2,1,0,0,0,0]
             },
             "hellolin":
             {
-                "solved": ["A","B","C",0,0,0,0,0]
+                "solved": [-1,-1,-1,0,0,0,0,0]
             },
             "liaiyang":
             {
-                "solved": ["A","B","C",0,0,0,0,0]
+                "solved": [-1,-1,1,0,0,0,0,0]
             },
             "zhugeminhao":
             {
-                "solved": ["A","B",0,0,0,0,0,0]
+                "solved": [-1,-1,0,0,0,0,0,0]
             }
         }
     },
     "AtCoder Regular Contest 157":
     {
         "problems":
-        {
-            "A":300,
-            "B":500,
-            "C":600,
-            "D":600,
-            "E":700,
-            "F":900
-        },
+        [
+            "A","B","C","D","E","F"
+        ],
+        "score":
+        [
+            300,500,600,600,700,900
+        ],
         "people":
         {
             "WilliamFranklin":
             {
-                "solved": ["A",0,0,0,0,0]
+                "solved": [1,0,0,0,0,0]
             },
             "quhaoran123":
             {
-                "solved": ["A",0,0,0,0,0]
+                "solved": [4,0,0,0,0,0]
             },
             "hellolin":
             {
-                "solved": ["A",0,0,0,0,0]
+                "solved": [3,0,0,0,0,0]
             },
             "zhugeminhao":
             {
-                "solved": ["A",0,0,0,0,0]
+                "solved": [2,0,0,0,0,0]
             },
             "zhangzhengyan123":
             {
-                "solved": ["A",0,0,0,0,0]
+                "solved": [3,0,0,0,0,0]
             }
         }
     }
