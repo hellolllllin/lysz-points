@@ -1,0 +1,32 @@
+{
+    "Codeforces Round #853 (Div.2)":
+    {
+        "problems":
+        [
+            "A","B","C","D","E","F"
+        ],
+        "score":
+        [
+            500,1000,1250,1750,2000,2750
+        ],
+        "people":
+        {
+            "_QWQ_":
+            {
+                "solved": [490,870,0,0,0,0]
+            },
+            "liaiyang":
+            {
+                "solved": [478,756,0,0,0,0]
+            },
+            "hellolin":
+            {
+                "solved": [0,0,0,0,0,0]
+            },
+            "zhangzhengyan0831":
+            {
+                "solved": [0,0,0,0,0,0]
+            }
+        }
+    }
+}
