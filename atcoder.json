@@ -66,5 +66,43 @@
                 "solved": [3,0,0,0,0,0]
             }
         }
+    },
+    "AtCoder Beginner Contest 291（Sponsored by TOYOTA SYSTEMS）":
+    {
+        "problems":
+        [
+            "A","B","C","D","E","F","G","Ex"
+        ],
+        "score":
+        [
+            100,200,300,400,500,500,600,600
+        ],
+        "people":
+        {
+            "quhaoran123":
+            {
+                "solved": [-1,-1,-1,-1,0,0,0,0]
+            },
+            "hellolin":
+            {
+                "solved": [-1,1,-1,-1,0,0,0,0]
+            },
+            "zhangzhengyan123":
+            {
+                "solved": [-1,-1,-1,2,0,0,0,0]
+            },
+            "liaiyang":
+            {
+                "solved": [-1,2,-1,1,0,0,0,0]
+            },
+            "zhugeminhao":
+            {
+                "solved": [-1,-1,-1,0,0,0,0,0]
+            },
+            "diamond_plus":
+            {
+                "solved": [1,1,-1,0,0,0,0,0]
+            }
+        }
     }
 }
