@@ -140,6 +140,10 @@
             "diamond_plus":
             {
                 "solved": [1,-1,0,0,0,0,0,0]
+            },
+            "zhugeminhao":
+            {
+                "solved":[0,0,0,0,0,0,0,0]
             }
         }
     }
